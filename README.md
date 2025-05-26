@@ -1,2 +1,19 @@
-# California-Housing-Regression-Models
-Predict California median house prices using ML regression models. Includes data preprocessing, training Linear Regression, Decision Tree, Random Forest, hyperparameter tuning, evaluation metrics, and visualization. Modular code ideal for learning and extending housing price prediction.
+# California Housing Regression Model
+
+This project demonstrates regression modeling on the California Housing dataset using different ML algorithms (Linear Regression, Decision Tree, Random Forest). It includes model training, evaluation, and hyperparameter optimization.
+
+## Requirements
+
+- Python 3.8+
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+## Installation
+
+Install required packages with:
+
+```bash
+pip install -r requirements.txt
